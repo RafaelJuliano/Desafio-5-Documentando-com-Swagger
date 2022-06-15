@@ -6,9 +6,9 @@ Resposta ao `Desafio 05 - Documentando com Swagger`, da trilha de Back-end do cu
 
 ## Preparando ambiente para documentação
 
-- [ ] Instalar a lib `swagger-ui-express`;
-- [ ] Criar um arquivo JSON para você escrever a documentação na especificação OpenAPI 3.0;
-- [ ] Instanciar na sua aplicação uma rota `api-docs` que vai servir a sua documentação.
+- [x] Instalar a lib `swagger-ui-express`;
+- [x] Criar um arquivo JSON para você escrever a documentação na especificação OpenAPI 3.0;
+- [x] Instanciar na sua aplicação uma rota `api-docs` que vai servir a sua documentação.
 
 ## O que eu devo documentar?
 
