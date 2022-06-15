@@ -1,8 +1,8 @@
 import express from "express";
 import SwaggerUi from "swagger-ui-express";
 
+import swaggerFile from "../oas/index.json";
 import { usersRoutes } from "./routes/users.routes";
-import swaggerFile from "./swagger.json";
 
 const app = express();
 

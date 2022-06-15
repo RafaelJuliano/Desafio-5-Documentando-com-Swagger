@@ -1,0 +1,13 @@
+{
+    "openapi": "3.0.0",
+    "info": {  
+        "title": "Users API",
+        "description": "API for magane users",
+        "contact": {
+            "name": "Rafael Juliano Ferreira",
+            "email": "rafael.j.ferreira@hotmail.com",
+            "url": "https://www.linkedin.com/in/rafael-juliano-ferreira-991084169/"
+        },
+        "version": "1.0.0"
+    }
+}
