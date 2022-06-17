@@ -12,10 +12,10 @@ Resposta ao `Desafio 05 - Documentando com Swagger`, da trilha de Back-end do cu
 
 ## O que eu devo documentar?
 
-- [ ] Informações gerais da API (nome, descrição, etc.);
-- [ ] Rotas;
-- [ ] Parâmetros;
-- [ ] Corpo da Requisição;
-- [ ] Respostas de sucesso;
-- [ ] Respostas de erro;
-- [ ] Exemplos.
+- [x] Informações gerais da API (nome, descrição, etc.);
+- [x] Rotas;
+- [x] Parâmetros;
+- [x] Corpo da Requisição;
+- [x] Respostas de sucesso;
+- [x] Respostas de erro;
+- [x] Exemplos.
